@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ ARYABHATT | THE ARCHITECT ⚡
+# ⚡ NILESH | THE ARCHITECT ⚡
 *BCA Student | Full-Stack Developer | AI & Cybersecurity Researcher*
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aryabhatt4533/)
